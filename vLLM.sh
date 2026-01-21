@@ -1,4 +1,4 @@
 cd /workspace
 mkdir models
 cd models
-wget https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf
+wget https://huggingface.co/gghfez/gpt-oss-120b-Derestricted.MXFP4_MOE-gguf/resolve/main/gpt-oss-120b-Derestricted.MXFP4_MOE.gguf
